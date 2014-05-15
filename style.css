@@ -1,22 +1,21 @@
+* {margin: 0;padding:0;text-align:center;}
 body{
 
 	text-align:center;
-	background-image: url("chairhat.jpg");
+	background-image:url('chairhat1.jpg');
 } 
-h
  .midcenter {
 	color: white;
 	background-color: #1F4396;
- 	height:100%;
  	width:50%;
  	margin-right: auto;
  	margin-left: auto;
+ 	
 }
 
 .whitemid {
 	color: black;
 	background-color: #FFFFFF;
- 	height:100%;
  	width:60%;
  	margin-right: auto;
  	margin-left: auto;
